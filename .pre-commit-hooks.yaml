@@ -1,0 +1,7 @@
+- id: ember-template-lint
+  name: Check Ember templates with ember-template-lint
+  description: Linter for Ember.js templates
+  entry: ember-template-lint
+  pass_filenames: true
+  language: node
+  types: ["handlebars"]
